@@ -33,7 +33,7 @@ void menu()
 //     else if (choix == 5)
 //         t;
 //     else if (choix == 6)
-// }
+}
 
 
 
